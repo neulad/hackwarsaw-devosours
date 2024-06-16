@@ -24,7 +24,6 @@ export let walletPage = `
 <div class="wallet-header">
 	<h1>WALLET</h1>
 	<p><strong>Total Balance:</strong> $150.95</p>
-	<p><strong>Your Wallet Address:</strong> 0x358e4e7406db8b6616683d6955503b326bdaef5c4</p>
 </div>
 <form class="wallet-form">
 	<div class="form-group">
