@@ -1,0 +1,8 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+
+[rpc_endpoints]
+mysubnet = "http://localhost:9650/ext/bc/mysubnet/rpc"
+anvil = "http://localhost:8545"
